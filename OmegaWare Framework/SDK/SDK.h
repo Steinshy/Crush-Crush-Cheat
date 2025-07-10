@@ -80,7 +80,10 @@ inline std::vector<Girl> Girls // Balance::GirlName
     {"Aurora", 67},
     {"Ginger & Wasabi", 68},
     {"Willow", 69},
-    {"Loola", 70}
+    {"Loola", 70},
+    {"Mortha", 71},
+    {"Sephia", 72},
+    {"Liz", 73}
 };
 
 enum LoveLevel
@@ -178,5 +181,9 @@ enum BlayFapItems // BlayFapInventory::BlayFapItem
     Willow,
     Anniversary2025,
     Loola,
-    MAX = 69
+    Liz,
+	Mortha,
+	Sephia,
+	pes27_storebundle,
+    MAX = 73
 };
